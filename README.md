@@ -12,3 +12,9 @@ ToDoList feito na semana do dia 09/10/2023 junto a RocketSeat para aprendizado e
 Foram implementadas várias ideias bacanas como a utilização de PUTs, GETs methods das tasks por usuário, onde foram feitas filtragens durante as requisições e
 durante o tratamento de exceções.
 
+## Render
+
+Foi utilizado também a plataforma Render conectada ao próprio github para subir a aplicação na Cloud e ficar disponível para testarmos em qualquer lugar, criamos um DockerFile com a imagem do ubuntu e o 
+JDK 17 que utilizamos na nossa aplicação e a mesma está disponível em: 
+
+https://todo-list-4ecu.onrender.com
